@@ -1,4 +1,4 @@
-.rectangle{
+.rectangle22{
    width: 850px;
    height: 1206px;
    background-color: black;
@@ -26,7 +26,7 @@
    margin-right: 400px;
    color: rgba(250, 82, 82, 1);
  }
- .image1{
+ .image12{
    width: 38px;
    height: 30px;
    top: -342px;
@@ -44,7 +44,7 @@
    margin-left: 150px;
    margin-top: -35px;
  }
- .image2{
+ .image22{
    width: 35px;
    height: 33px;
    top: -336px;
@@ -62,7 +62,7 @@
    margin-left: 550px;
    margin-top: -35px;
  }
- .rectangle1{
+ .rectangle13{
    width: 350px;
    height: 120px;
    top: -288px;
@@ -110,7 +110,7 @@
    margin-left: 25px;
    margin-top: -33px;
  }
- .rectangle2{
+ .rectangle23{
    width: 350px;
    height: 120px;
    top: -288px;
@@ -152,7 +152,7 @@
    margin-left: 25px;
    margin-top: -18px;
  }
- .rectangle3{
+ .rectangle33{
    width: 350px;
    height: 120px;
    top: -148px;
@@ -162,7 +162,7 @@
    margin-left:50px ;
    margin-top: 20px;
  }
- .f1{
+ .f11{
    font-family: Poppins;
    font-size: 14px;
    font-weight: 400;
@@ -171,7 +171,7 @@
    color: rgba(33, 36, 37, 1);
    margin-left: 25px;
  }
- .f2{
+ .f22{
    font-family: Poppins;
    font-size: 18px;
    font-weight: 400;
@@ -181,7 +181,7 @@
    margin-left: 25px;
    margin-top: -50px;
  }
- .f3{
+ .f33{
    font-family: Poppins;
    font-size: 14px;
    font-weight: 400;
@@ -191,7 +191,7 @@
    margin-left:180px;
    margin-top: -80px;
  }
- .f4{
+ .f44{
    font-family: Poppins;
    font-size: 16px;
    font-weight: 400;
@@ -201,7 +201,7 @@
    margin-left: 25px;
    margin-top: -45px;
  }
- .rectangle4{
+ .rectangle43{
    width: 350px;
    height: 120px;
    top: -148px;
@@ -240,7 +240,7 @@
    margin-left: 25px;
    margin-top: -12px;
  }
- .rectangle5{
+ .rectangle53{
    width: 350px;
    height: 120px;
    top: -148px;
@@ -289,7 +289,7 @@
    margin-left: 25px;
    margin-top: -15px;
  }
- .rectangle6{
+ .rectangle63{
    width: 350px;
    height: 120px;
    top: -148px;
@@ -328,12 +328,13 @@
    margin-left: 25px;
    margin-top: -15px;
  }
- .footer{
+ .footer2{
    width: 850px;
    height: 431px;
    top: 172px;
    left: -2625px;
-   background-color: rgba(33, 36, 37, 1); ;
+   background-color: rgba(33, 36, 37, 1); 
+   margin-top: 70px;
  }
  
  .tit1{
@@ -541,11 +542,12 @@
    margin-left: 450px;
    margin-top: 10px;
 }
-.fin{
+.fin11{
    font-family: Poppins;
 font-size: 16px;
 font-weight: 400;
 line-height: 28px;
 text-align: center;
 color: rgba(166, 166, 166, 1);
+margin-top: 50px;
 }
