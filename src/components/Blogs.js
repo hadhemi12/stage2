@@ -32,6 +32,9 @@ function Blogs() {
     <div className='cercle1'></div>
     <div className='cercle2'></div>
     <div className='cercle3'></div>
+    <div className='footer'>
+      <p className='fini'>© 2021 All Rights Reserved by ib-themes.</p>
+    </div>
     </div>
   );
 }
