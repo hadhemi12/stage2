@@ -1,4 +1,4 @@
-.rectangle{
+.rectangle21{
    width: 850px;
    height: 1206px;
    background-color: black;
@@ -72,7 +72,7 @@
    
  }
  
- .image1{
+ .image11{
    width: 40px;
    height: 40px;
    top: -65px;
@@ -101,7 +101,7 @@
    margin-left: 85px;
    margin-top: -20px;
  }
- .image2{
+ .image22{
    width: 45px;
    height: 40px;
    top: -65px;
@@ -141,7 +141,7 @@
    margin-left: 50px;
    margin-top: 50px;
  }
- .image3{
+ .image33{
    width: 40px;
    height: 40px;
    top: 168px;
@@ -181,7 +181,7 @@
    border: 2px solid rgba(33, 36, 37, 1);
  
  }
- .image4{
+ .image44{
    width: 45px;
    height: 40px;
    top: 168px;
@@ -211,7 +211,7 @@
    margin-top: -20px;
  }
  
- .footer{
+ .footer1{
    width: 850px;
    height: 237px;
    top: 411px;
@@ -229,27 +229,27 @@
    margin-left: 370px;
    margin-top: 10px;
  }
- .f1{
+ .f11{
    width: 90px;
    height: 65px;
    top: 523px;
    left: -4808px;
    margin-left: 200px;
  }
- .f2{
+ .f22{
    width: 98px;
    height: 65px;
    top: 523px;
    left: -4586px;
-   margin-left: 70px;
+   margin-left: 80px;
  }
  
- .f3{
+ .f33{
    width: 103px;
    height: 65px;
    top: 523px;
    left: -4448px;
-   margin-left: 150px;
+   margin-left: 100px;
  }
  .last{
    font-family: Poppins;
