@@ -1,0 +1,217 @@
+.rectangle{
+   width: 850px;
+   height: 1345px;
+   top: -490px;
+   left: -205px;
+   border-radius: 20px ;
+   background: rgba(0, 0, 0, 1);
+}
+.tit1{
+   font-family: Roboto Slab;
+   font-size: 40px;
+   font-weight: 700;
+   line-height: 52.75px;
+   text-align: left;
+   color: rgba(255, 255, 255, 1);
+
+}
+hr{
+   width: 200px;
+   border: 1px solid;
+   margin-top: -60px;
+   margin-right: 400px;
+   color: rgba(250, 82, 82, 1);
+ }
+ .all{
+   font-family: Poppins;
+   font-size: 16px;
+   font-weight: 500;
+   line-height: 24px;
+   text-align: left;
+   color: rgba(250, 82, 82, 1);
+   margin-left: 500px;
+   margin-top: 30px;
+ }
+ .moc{
+   font-family: Poppins;
+   font-size: 16px;
+   font-weight: 500;
+   line-height: 24px;
+   text-align: left;
+   color: rgba(166, 166, 166, 1);
+   margin-left: 550px;
+   margin-top: -40px;
+ }
+ .moc2{
+   font-family: Poppins;
+   font-size: 16px;
+   font-weight: 500;
+   line-height: 24px;
+   text-align: left;
+   color: rgba(166, 166, 166, 1);
+   margin-left: 625px;
+   margin-top: -40px;
+ }
+ .moc3{
+   font-family: Poppins;
+   font-size: 16px;
+   font-weight: 500;
+   line-height: 24px;
+   text-align: left;
+   color: rgba(166, 166, 166, 1);
+   margin-left: 740px;
+   margin-top: -40px;
+ }
+ .rectangle1{
+   width: 350px;
+   height: 270px;
+   top: -293px;
+   left: -145px;
+   border: 2px solid rgba(33, 36, 37, 1)
+ }
+ .image1{
+   width: 310px;
+   height: 166px;
+   top: -273px;
+   left: -125px;
+   border-radius: 10px;
+   margin-left: 20px;
+   margin-top: 15px;
+ }
+ .travel{
+   font-family: Poppins;
+   font-size: 12px;
+   font-weight: 400;
+   line-height: 18px;
+   text-align: left;
+   color: rgba(166, 166, 166, 1);
+   margin-left: 25px;
+ }
+ .chul{
+   font-family: Poppins;
+   font-size: 16px;
+   font-weight: 500;
+   line-height: 24px;
+   text-align: left;
+   color: rgba(255, 255, 255, 1);
+   margin-left: 25px;
+   margin-top: 10px
+ }
+ .rectangle2{
+   width: 350px;
+   height: 370px;
+   top: -293px;
+   left: 235px;
+   border-radius: 12px;
+   margin-top: -270px;
+ }
+ .image2{
+   width: 310px;
+   height: 266px;
+   top: -273px;
+   left: 255px;
+   border-radius: 12px ;
+   margin-left: 20px;
+   margin-top: 10px;
+ }
+ .land{
+   font-family: Poppins;
+   font-size: 12px;
+   font-weight: 400;
+   line-height: 18px;
+   text-align: left;
+   color: rgba(166, 166, 166, 1);
+   margin-left: 20px;
+ }
+ .aura{
+   font-family: Poppins;
+   font-size: 16px;
+   font-weight: 500;
+   line-height: 24px;
+   text-align: left;
+   margin-left: 20px;
+ }
+ .rectangle3{
+   width: 350px;
+   height: 370px;
+   top: 7px;
+   left: -145px;
+   border-radius: 12px;
+   border: 2px ;
+   border: 2px solid rgba(33, 36, 37, 1);
+   margin-top: -70px;
+ }
+ .image3{
+   width: 310px;
+   height: 266px;
+   top: 27px;
+   left: -125px;
+   border-radius: 12px;
+ }
+ .shirt{
+   font-family: Poppins;
+   font-size: 16px;
+   font-weight: 500;
+   line-height: 24px;
+   text-align: left;
+   color: rgba(255, 255, 255, 1);
+   margin-left: 22px;
+ }
+ .rectangle4{
+   width: 350px;
+   height: 320px;
+   left: 235px;
+   border-radius: 12px;
+   border: 2px solid rgba(33, 36, 37, 1);
+   margin-top: -270px;
+ }
+ .image4{
+   width: 310px;
+   height: 216px;
+   top: 127px;
+   left: 255px;
+   border-radius: 12px;
+ }
+ .rectangle5{
+   width: 350px;
+   height: 320px;
+   top: 407px;
+   left: -145px;
+   border-radius: 12px;
+   border: 2px solid rgba(33, 36, 37, 1);
+   margin-top: -25px;
+ }
+ .image5{
+   width: 310px;
+   height: 216px;
+   top: 427px;
+   left: -125px;
+   border-radius: 12px ;
+   margin-left: 20px;
+   margin-top: 10px;
+ }
+ .rectangle6{
+   width: 350px;
+   height: 270px;
+   top: 457px;
+   left: 235px;
+   border-radius: 12px;
+   margin-top: -275px;
+ }
+ .image6{
+   width: 310px;
+   height: 166px;
+   top: 477px;
+   left: 255px;
+   border-radius: 12px ;
+   margin-left: 20px;
+   margin-top: 10px;
+ }
+ .footer{
+   width: 850px;
+   height: 68px;
+   top: 787px;
+   left: -205px;
+   border-radius: 0px 0px 20px 20px;
+   margin-top: 100px;
+ }

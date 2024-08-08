@@ -1,0 +1,88 @@
+.rectangle1{
+   width: 350px;
+   height: 455px;
+   top: -347px;
+   left: 2275px;
+   margin-top: 50px;
+}
+.image{
+   width: 310px;
+   height: 310px;
+   top: -327px;
+   left: 2295px;
+   border-radius: 12px ;
+   margin-left: 20px;
+   margin-top: 15px;
+}
+.rectangle2{
+   width: 350px;
+   height: 455px;
+   top: -347px;
+   left: 2275px;
+   margin-top: -460px;
+}
+.rectangle3{
+   width: 350px;
+   height: 455px;
+   top: -347px;
+   left: 2275px;
+   margin-top: 30px;
+}
+.aura2{
+   font-family: Poppins;
+   font-size: 18px;
+   font-weight: 500;
+   line-height: 28px;
+   text-align: left;
+   color: rgba(255, 255, 255, 1);
+   margin-left: 20px;
+}
+.rectangle4{
+   width: 350px;
+   height: 455px;
+   top: -347px;
+   left: 2275px;
+   margin-top: -460px;
+}
+.aura3{
+   font-family: Poppins;
+   font-size: 18px;
+   font-weight: 500;
+   line-height: 28px;
+   text-align: left;
+   color: rgba(255, 255, 255, 1);
+   margin-left: 20px;
+}
+.cercle1{
+   width: 12px;
+   height: 12px;
+   top: 633px;
+   left: 2612px;
+   border-radius: 20px ;
+   border: 2px 0px 0px 0px;
+   border: 2px solid rgba(250, 82, 82, 1);
+   margin-top: 50px;
+   margin-left: 400px;
+}
+.cercle2{
+   width: 12px;
+   height: 12px;
+   top: 633px;
+   left: 2612px;
+   border-radius: 20px ;
+   border: 2px 0px 0px 0px;
+   border: 2px solid rgba(250, 82, 82, 1);
+   margin-top: -16px;
+   margin-left: 410px;
+}
+.cercle3{
+   width: 12px;
+   height: 12px;
+   top: 633px;
+   left: 2612px;
+   border-radius: 20px ;
+   border: 2px 0px 0px 0px;
+   border: 2px solid rgba(250, 82, 82, 1);
+   margin-top: -16px;
+   margin-left: 450px;
+}
