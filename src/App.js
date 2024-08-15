@@ -10,10 +10,13 @@ import './App.css';
 //import Navbar from './components/Navbar';
 
 
+
+
+
 function App(){
   return(
     <Router>
-      <div>
+      <>
         <Navbar />
         <Routes>
           <Route path="/About" element={<About />} />
@@ -22,7 +25,7 @@ function App(){
           <Route path="/Blogs" element={<Blogs />} />
           <Route path="/Contact" element={<Contact />} />
         </Routes>
-      </div>
+      </>
     </Router>
   );
 }
