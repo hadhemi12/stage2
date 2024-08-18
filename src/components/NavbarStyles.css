@@ -33,7 +33,63 @@ nav{
    bottom: -4px;
    left: 20px;
 }
-#mobile i {
-   color: whitesmoke;
-   align-items: center;
+#mobile {
+   display: none;
+  
+  
 }
+#mobile i {
+   color: black;
+   font-size: 24px;
+   cursor: pointer;
+   visibility: visible;  
+   opacity: 1;
+   background: yellow;  
+   display: inline-block;
+    
+}
+
+@media screen and (max-width: 768px) {
+   nav {
+     padding: 10px 20px;
+   }
+
+   #navbar {
+      display: none;
+   }
+   
+   #navbar.nav-links-mobile {
+      display: block;
+      position: absolute;
+      top: 70px;
+      right: 0;
+      width: 100%;
+      background-color: black;
+      height: 100vh;
+      text-align: center;
+   }
+   
+   #navbar.nav-links-mobile li {
+      display: block;
+      margin: 20px 0;
+   }
+   #mobile {
+      display: block;
+   }
+}
+
+@media (max-width: 768px) {
+   #mobile {
+      display: block;
+      position: fixed;
+      right: 20px;
+      top: 20px;
+      z-index: 999;  
+   }
+   #navbar {
+     display: none;
+   }
+ }
+
+
+
